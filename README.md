@@ -1,44 +1,40 @@
 # 👋 Hi, I’m Tilan Dunuwila
 
-🎓 Third-year student at SLIIT (Sri Lanka Institute of Information Technology)  
-💻 MERN stack developer | Tailwind CSS enthusiast | Open Source Advocate  
-🎨 Experienced Digital Artist
+**🎓 Third‑year Software Engineering undergrad @ SLIIT**  
+**💻 MERN‑stack Developer • Tailwind CSS Enthusiast • Open‑Source Advocate**  
+**🎨 Digital Artist**
 
 ---
 
 ## 🚀 About Me
 
-I’m passionate about using both code and creativity to make a difference. As a developer, I specialize in the MERN stack and love crafting visually appealing, responsive UIs with Tailwind CSS. Open source is where I thrive—whether I’m contributing to existing projects or starting something new, I believe software is better when we build it together.
-
-When I’m not coding, you’ll find me creating digital art—because creativity fuels innovation, from pixels to pull requests!
+I blend **code** and **creativity** to build impactful experiences. With a focus on the **MERN stack**, I craft responsive UIs using **Tailwind CSS**, and I’m passionate about contributing to and launching open‑source projects. When I’m not debugging or designing, you’ll find me sketching out my next digital art piece—because great software and art both start with imagination!
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Languages:** JavaScript (ES6+), TypeScript
-- **Frontend:** React, Redux, Tailwind CSS, HTML5, CSS3
-- **Backend:** Node.js, Express
-- **Database:** MongoDB
-- **Tools:** Git, GitHub, VS Code, Figma
+- **Languages:** JavaScript (ES6+), TypeScript  
+- **Frontend:** React, Redux, Tailwind CSS, HTML5, CSS3  
+- **Backend:** Node.js, Express  
+- **Database:** MongoDB  
+- **Tools & Workflow:** Git, GitHub, VS Code, Figma
 
 ---
 
 ## 🌱 Currently Learning
 
-- Advanced backend architectures
-- Cloud deployment & DevOps
-- New digital art techniques
+- Scalable backend architectures  
+- Cloud deployments & CI/CD pipelines  
+- Advanced digital art techniques
 
 ---
 
-## 🤝 Let’s Connect!
+## 🤝 Let’s Connect
 
-- 📸 [Instagram (Personal)](https://www.instagram.com/dunu__/)
-- 🎨 [Instagram (Art)](https://www.instagram.com/conflatedesigns_/)
-- 👤 [Facebook](https://www.facebook.com/tilan.dunuwila)
-- 💼 [LinkedIn](https://www.linkedin.com/in/tilan-dunuwila-79265424a/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/dunu__/)  
+[![Art Instagram](https://img.shields.io/badge/Art%20Insta-%23E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/conflatedesigns_/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tilan-dunuwila-79265424a/)  
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2?logo=facebook&logoColor=white)](https://www.facebook.com/tilan.dunuwila)
 
----
-
-> “Building great software together. Coding with creativity. Always learning.”
+> *“Building together. Innovating always.”*
