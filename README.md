@@ -32,9 +32,9 @@ I blend **code** and **creativity** to build impactful experiences. With a focus
 
 ## 🤝 Let’s Connect
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/dunu__/)  
-[![Art Instagram](https://img.shields.io/badge/Art%20Insta-%23E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/conflatedesigns_/)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tilan-dunuwila-79265424a/)  
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2?logo=facebook&logoColor=white)](https://www.facebook.com/tilan.dunuwila)
+- 📸 [Instagram (Personal)](https://www.instagram.com/dunu__/)
+- 🎨 [Instagram (Art)](https://www.instagram.com/conflatedesigns_/)
+- 👤 [Facebook](https://www.facebook.com/tilan.dunuwila)
+- 💼 [LinkedIn](https://www.linkedin.com/in/tilan-dunuwila-79265424a/)
 
 > *“Building together. Innovating always.”*
