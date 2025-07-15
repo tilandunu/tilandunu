@@ -14,10 +14,10 @@ I blend **code** and **creativity** to build impactful experiences. With a focus
 
 ## 🛠️ Tech Stack
 
-- **Languages:** JavaScript (ES6+), TypeScript  
+- **Languages:** JavaScript (ES6+), TypeScript, Java, C++  
 - **Frontend:** React, Redux, Tailwind CSS, HTML5, CSS3  
-- **Backend:** Node.js, Express  
-- **Database:** MongoDB  
+- **Backend:** Node.js, Express, SpringBoot  
+- **Database:** MongoDB, SQL
 - **Tools & Workflow:** Git, GitHub, VS Code, Figma
 
 ---
