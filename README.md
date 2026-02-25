@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Tilan Dunuwila
 
-**🎓 Third‑year Software Engineering undergrad @ SLIIT**  
+**🎓 Fourth‑year Software Engineering undergrad @ SLIIT**  
 **💻 MERN‑stack Developer • Tailwind CSS Enthusiast • Open‑Source Advocate**  
 **🎨 Digital Artist**
 
